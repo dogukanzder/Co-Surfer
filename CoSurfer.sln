@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32825.248
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CoSurfer", "CoSurfer\CoSurfer.csproj", "{5D7DBB7A-49C9-4CC1-9A00-07722ACD10EB}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Co-Surfer Setup", "Co-Surfer Setup\Co-Surfer Setup.vdproj", "{950C30BF-389E-4912-842B-86A68B1ECE30}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5D7DBB7A-49C9-4CC1-9A00-07722ACD10EB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5D7DBB7A-49C9-4CC1-9A00-07722ACD10EB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5D7DBB7A-49C9-4CC1-9A00-07722ACD10EB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5D7DBB7A-49C9-4CC1-9A00-07722ACD10EB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{950C30BF-389E-4912-842B-86A68B1ECE30}.Debug|Any CPU.ActiveCfg = Debug
+		{950C30BF-389E-4912-842B-86A68B1ECE30}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {230B63E1-1273-4E29-A12D-70554565F1F9}
+	EndGlobalSection
+EndGlobal
