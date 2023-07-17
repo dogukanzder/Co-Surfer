@@ -42,7 +42,7 @@ Co-Surfer is an invaluable tool for testers and developers looking to automate t
 For the best performance and accuracy, it's important to note that certain multi-user websites frequently modify their structures as a precautionary measure against programs like the one you're referring to. Consequently, there is a possibility that the program may not function correctly when used on such sites. In such cases, please be aware that you assume full responsibility for any potential issues or errors that may arise.
 
 ### Setup:
-[.msi](https://github.com/dogukanzder/Co-Surfer/blob/master/Co-Surfer%20Setup/Debug/Co-Surfer%20Setup.msi)
+[.msi](https://github.com/dogukanzder/Co-Surfer/blob/master/Co-Surfer%20Setup.msi)
 
 ### Keywords:
 Automation testing, WPF, C#, Selenium, Web automation, User interface, Efficiency, Productivity, Element identification, Error handling, Speed, Performance.
