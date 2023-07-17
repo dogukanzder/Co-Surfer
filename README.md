@@ -33,7 +33,7 @@ The development of Co-Surfer is an ongoing process, and there are several exciti
 
 Co-Surfer is an invaluable tool for testers and developers looking to automate their testing efforts and increase productivity. With its user-friendly interface, robust automation capabilities, and planned future enhancements, Co-Surfer is set to become an essential asset in the arsenal of automation testers.
 
-### Manuels:
+### Manuals:
 [English](https://github.com/dogukanzder/Co-Surfer/blob/master/Co-Surfer%20EN.pdf)
 
 [Turkish](https://github.com/dogukanzder/Co-Surfer/blob/master/Co-Surfer%20TR.pdf)
