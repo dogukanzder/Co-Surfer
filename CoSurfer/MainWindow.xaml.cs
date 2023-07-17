@@ -41,7 +41,7 @@ namespace CoSurfer
 
         #region Var
         List<PathItem> pathList = new List<PathItem>();
-        List<Site> siteList = new List<Site>();
+        readonly List<Site> siteList = new List<Site>();
 
         string browserName = "Microsoft Edge";
         string browserLocation;
@@ -958,12 +958,15 @@ namespace CoSurfer
 
                     if (RunFunction(pathList, driver) == 1)
                     {
-                        driver.Quit();
+                        this.Topmost = true;
+                        this.Topmost = false;
+                        MessageBox.Show(this, "Control Finished!");
+                        //driver.Quit();
                     }
 
                 }
             }
-            catch (Exception ex)
+            catch (Exception)
             {
                 MessageBox.Show("There is a problem with the browser or url.");
             }

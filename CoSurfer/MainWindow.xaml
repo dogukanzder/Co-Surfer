@@ -165,6 +165,8 @@
         <Button x:Name="importButton" Content="Import" HorizontalAlignment="Left" Margin="335,659,0,20" VerticalAlignment="Bottom" Height="40" Width="40" Background="#FFF98A2C" FontSize="11" Click="importButton_Click" ToolTip="Import site from Excel file."/>
         <Button x:Name="exportAllButton" Content="Export&#xD;&#xA;All" HorizontalAlignment="Left" Margin="380,659,0,20" VerticalAlignment="Bottom" Height="40" Width="40" Background="#FFF98A2C" FontSize="11" Click="exportAllButton_Click" HorizontalContentAlignment="Center" ToolTip="Export all sites to an Excel file."/>
 
+        <Button x:Name="browserSettingsButton" Content="Browser&#xA;Settings" HorizontalAlignment="Right" Margin="0,0,20,20" VerticalAlignment="Bottom" Height="40" Width="50" Background="#FFF98A2C" FontSize="11" HorizontalContentAlignment="Center" ToolTip="Adjust browser." Click="browserSettingsButton_Click"/>
+
         <Grid x:Name="addPathGrid" Visibility="Hidden">
             <Grid.Background>
                 <ImageBrush ImageSource="/addPathBg.png"/>
@@ -202,7 +204,7 @@
         </Grid>
 
 
-        <Button x:Name="browserSettingsButton" Content="Browser&#xA;Settings" HorizontalAlignment="Right" Margin="0,0,20,20" VerticalAlignment="Bottom" Height="40" Width="50" Background="#FFF98A2C" FontSize="11" HorizontalContentAlignment="Center" ToolTip="Adjust browser." Click="browserSettingsButton_Click"/>
+       
         <Grid x:Name="browserSettingGrid" Visibility="Hidden">
             <Grid.Background>
                 <ImageBrush ImageSource="/addPathBg.png"/>
