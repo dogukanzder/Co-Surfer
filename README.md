@@ -44,5 +44,11 @@ For the best performance and accuracy, it's important to note that certain multi
 ### Setup:
 [.msi](https://github.com/dogukanzder/Co-Surfer/blob/master/Co-Surfer%20Setup.msi)
 
+After installation, you can select which browser driver to work with from the browser settings.
+
+Browser drivers:
+- [ChromeDriver](https://chromedriver.chromium.org/downloads)
+- [Microsoft Edge WebDriver](https://developer.microsoft.com/en-us/microsoft-edge/tools/webdriver/)
+
 ### Keywords:
 Automation testing, WPF, C#, Selenium, Web automation, User interface, Efficiency, Productivity, Element identification, Error handling, Speed, Performance.
